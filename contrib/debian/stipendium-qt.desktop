@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stipendium Core
+Comment=Stipendium P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Stipendium peer-to-peer Netzwerk
+Comment[fr]=Stipendium, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Stipendium, eşten eşe kriptografik sanal para birimi
+Exec=stipendium-qt %u
+Terminal=false
+Type=Application
+Icon=stipendium128
+MimeType=x-scheme-handler/stipendium;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/stipendium-qt usr/bin
+share/pixmaps/stipendium32.xpm usr/share/pixmaps
+share/pixmaps/stipendium16.xpm usr/share/pixmaps
+share/pixmaps/stipendium128.png usr/share/pixmaps
+debian/stipendium-qt.desktop usr/share/applications
+debian/stipendium-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,23 @@
+Stipendium Core 0.14.0
+=====================
+
+Intro
+-----
+Stipendium is a free open source peer-to-peer electronic cash system that is
+completely decentralized, without the need for a central server or trusted
+parties.  Users hold the crypto keys to their own money and transact directly
+with each other, with the help of a P2P network to check for double-spending.
+
+
+Setup
+-----
+Unpack the files into a directory and run stipendium-qt.exe.
+
+Stipendium Core is the original Stipendium client and it builds the backbone of the network.
+However, it downloads and stores the entire history of Stipendium transactions;
+depending on the speed of your computer and network connection, the synchronization
+process can take anywhere from a few hours to a day or more.
+
+See the Stipendium documentation at:
+  https://docs.stipendium.org
+for more help and information.
